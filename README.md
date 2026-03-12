@@ -27,13 +27,13 @@ management, transparency, and worker welfare**.
 ## ✨ Features
 
 -   📚 **Labour Law Awareness** -- Information about important labour
-    rights and regulations\
+    rights and regulations
 -   👷 **Worker‑Focused Design** -- Easy-to-understand resources for
-    labourers\
+    labourers
 -   🔐 **Privacy Respecting Approach** -- Focus on compliance without
-    excessive monitoring\
+    excessive monitoring
 -   🌐 **User-Friendly Interface** -- Clean and accessible web
-    interface\
+    interface
 -   ⚙️ **Dynamic Web Functionality** -- Backend support using PHP for
     dynamic content
 
@@ -41,8 +41,8 @@ management, transparency, and worker welfare**.
 
 ## 🛠️ Tech Stack
 
--   **Frontend:** HTML, CSS, JavaScript\
--   **Backend:** PHP\
+-   **Frontend:** HTML, CSS, JavaScript
+-   **Backend:** PHP
 -   **Version Control:** Git & GitHub
 
 ------------------------------------------------------------------------
@@ -99,7 +99,7 @@ This platform can help:
 
 ## 👨‍💻 Author
 
-**Raman Kumar**\
-B.Tech CSE Student \| Developer \| DevOps Enthusiast
+**Raman Kumar**
+B.Tech CSE Student | Full Stack Developer | DevOps Enthusiast
 
 GitHub: https://github.com/Raman-kumar86
